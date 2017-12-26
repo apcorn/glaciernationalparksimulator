@@ -1,0 +1,10 @@
+name=Logan Pass
+# total spots 231
+parkingTier.0.count=10
+parkingTier.0.time=15
+parkingTier.1.count=50
+parkingTier.1.time=60
+parkingTier.2.count=100
+parkingTier.2.time=180
+parkingTier.3.count=71
+parkingTier.3.time=9999

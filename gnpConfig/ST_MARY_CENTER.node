@@ -1,0 +1,4 @@
+name=St. Mary Visitor Center
+# total spots 98
+parkingTier.0.count=98
+parkingTier.0.time=9999

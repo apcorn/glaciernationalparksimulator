@@ -1,0 +1,4 @@
+name=West Aux Lot
+# total spots 500
+parkingTier.0.count=0
+parkingTier.0.time=9999

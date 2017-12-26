@@ -1,0 +1,6 @@
+name=The Loop
+# total spots 19
+parkingTier.0.count=6
+parkingTier.0.time=15
+parkingTier.1.count=13
+parkingTier.1.time=9999

@@ -1,0 +1,4 @@
+name=Apgar Transit
+# total spots 212
+parkingTier.0.count=212
+parkingTier.0.time=9999

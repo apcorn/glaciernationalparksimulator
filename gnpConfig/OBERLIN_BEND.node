@@ -1,0 +1,4 @@
+name=Oberlin Bend
+# total spots 16
+parkingTier.0.count=16
+parkingTier.0.time=60

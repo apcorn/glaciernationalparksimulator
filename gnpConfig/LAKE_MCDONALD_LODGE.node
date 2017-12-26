@@ -1,0 +1,4 @@
+name=Lake McDonald Lodge
+# total spots 54
+parkingTier.0.count=54
+parkingTier.0.time=9999

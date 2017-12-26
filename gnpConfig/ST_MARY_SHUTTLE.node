@@ -1,0 +1,4 @@
+name=St. Mary Shuttle
+# total spots 8
+parkingTier.0.count=8
+parkingTier.0.time=180

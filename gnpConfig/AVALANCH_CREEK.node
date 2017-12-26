@@ -1,0 +1,6 @@
+name=Avalanche Creek
+# total spots 102
+parkingTier.0.count=34
+parkingTier.0.time=90
+parkingTier.1.count=68
+parkingTier.1.time=9999

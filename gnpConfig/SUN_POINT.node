@@ -1,0 +1,4 @@
+name=Sun Point
+# total spots 84
+parkingTier.0.count=84
+parkingTier.0.time=9999
